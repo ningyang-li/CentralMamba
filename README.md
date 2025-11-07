@@ -2,4 +2,4 @@
 
 Thanks for your attention.☺️
 
-Codes will be available soon.
+Codes of CentralMamba model have been open-sourced.
